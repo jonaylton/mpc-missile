@@ -29,7 +29,7 @@ futuras na área de sistemas de controle MPC Não-linear e Robusto.
 
 Palavras-chave: mpc. não-linear. míssil. 3dof. piloto automático. matlab. casadi.
 
-## Master Thesis Description
+## Master Thesis Description (English)
 
 TITLE:
 Controle Preditivo Não-Linear Aplicado ao Sistema de Piloto Automático de Mísseis
