@@ -12,7 +12,7 @@ Palavras-chave: mpc. não-linear. míssil. 3dof. piloto automático. matlab. cas
 
 (2) CAVALCANTI, V. M. G. de B. Síntese de controladores estruturados sob restrições quadráticas integrais. 159 p. Tese (Doutorado em Engenharia de Defesa) — Instituto Militar de Engenharia, Rio de Janeiro, Brasil, 12 2021.
 
-## Master Thesis Description (English)
+## Thesis Description (English)
 
 TITLE:
 Controle Preditivo Não-Linear Aplicado ao Sistema de Piloto Automático de Mísseis
