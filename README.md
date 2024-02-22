@@ -53,7 +53,7 @@ Keywords: mpc. nonlinear. missile. 3dof. autopilot. matlab. casadi.
 | Memory Type         | LPDDR4x                |
 | Memory Speed        | 4267 MHz               |
 
-## How to run
+## How to
 
 To execute the code, Matlab must be launched from the 'x64 Native Tools Command Prompt for VS 2022'. See image below:
 
