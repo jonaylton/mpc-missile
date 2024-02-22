@@ -50,3 +50,19 @@ Keywords: mpc. nonlinear. missile. 3dof. autopilot. matlab. casadi.
 To execute the code, Matlab must be launched from the 'x64 Native Tools Command Prompt for VS 2022'. See image below:
 
 <img src="https://github.com/jonaylton/mpc-missile/assets/75505777/a6c64e39-3e6a-4155-bac4-a4f3903e64cb" width="70%" />
+
+## Referências
+
+Aqui está uma referência importante para este projeto:
+
+```bibtex
+@article{Example2023,
+  title={Título do Artigo},
+  author={Autor, Fulano de Tal},
+  journal={Nome do Jornal},
+  volume={42},
+  number={1},
+  pages={123-456},
+  year={2023},
+  publisher={Editora Exemplo}
+}
