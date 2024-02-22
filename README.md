@@ -1,3 +1,8 @@
+## Citation
+
+SOUSA, J. M. de. Controle preditivo não-linear aplicado ao sistema de piloto automático de mísseis. Dissertação (Dissertação de Mestrado) — Instituto Militar de Engenharia,
+Rio de Janeiro, Brasil, 2024. Departamento de Engenharia Elétrica.
+
 ## Descrição da Dissertação (Português)
 
 TÍTULO:
