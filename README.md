@@ -24,3 +24,28 @@ only advances knowledge in the field of Nominal MPC control but also establishes
 foundation for future research in the area of Nonlinear and Robust MPC control systems.
 
 Keywords: mpc. nonlinear. missile. 3dof. autopilot. matlab. casadi.
+
+## Software Configuration
+
+| Software                | Version    |
+|-------------------------|------------|
+| Matlab                  | R2023a     |
+| CasADi                  | 3.6.3      |
+| Mosek                   | 10.0       |
+| Microsoft Visual Studio | 2022 v17.7.3|
+
+## Hardware Configuration
+
+| Component           | Specification          |
+|---------------------|------------------------|
+| Processor           | Core i5-1235U          |
+| L3 Cache            | 12 MB                  |
+| Base Frequency      | 1.30 GHz               |
+| Maximum Frequency   | 4.40 GHz               |
+| Cores               | 10                     |
+| Threads             | 12                     |
+| TDP Max             | 15 W                   |
+| Integrated Graphics | Intel Iris Xe Graphics |
+| Total Memory        | 16 GB                  |
+| Memory Type         | LPDDR4x                |
+| Memory Speed        | 4267 MHz               |
