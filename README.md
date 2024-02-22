@@ -27,12 +27,14 @@ Keywords: mpc. nonlinear. missile. 3dof. autopilot. matlab. casadi.
 
 ## Software Configuration
 
-| Software                | Version    |
-|-------------------------|------------|
-| Matlab                  | R2023a     |
-| CasADi                  | 3.6.3      |
-| Mosek                   | 10.0       |
-| Microsoft Visual Studio | 2022       |
+| Software                                   | Version    |
+|--------------------------------------------|------------|
+| Microsoft Visual Studio                    | 2022       |
+| MinGW-w64 Compiler                         | 6.3        |
+| MATLAB                                     | R2023a     |
+| MATLAB Support for MinGW-w64 Compiler      | R2023a     |
+| CasADi                                     | 3.6.3      |
+| Mosek                                      | 10.0       |
 
 ## Hardware Configuration
 
