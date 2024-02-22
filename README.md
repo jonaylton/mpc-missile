@@ -1,3 +1,36 @@
+## Descrição da Dissertação (Português)
+
+TÍTULO:
+Controle Preditivo Não-Linear Aplicado ao Sistema de Piloto Automático de Mísseis
+
+RESUMO:
+Esta dissertação aborda o desenvolvimento e a aplicação do Controle Preditivo Baseado
+em Modelo (MPC), em sistemas de piloto automático de mísseis. A modelagem matemá-
+tica detalhada de mísseis axissimétricos controlados por aletas é apresentada, incluindo
+simplificações práticas que mantêm a precisão necessária para o controle efetivo em todo o
+envelope de voo. Com base nessa modelagem, um controlador MPC Não Linear é desen-
+volvido e testado através de simulações, comparando seu desempenho com um controlador
+previamente projetado por Simões e Cavalcanti ( 1) (2 ), evidenciando a viabilidade e
+a eficácia do MPC em aplicações complexas e não lineares como o controle de piloto
+automático de mísseis. Ressalta-se a simplicidade, a intuitividade e a precisão do MPC,
+especialmente quando aplicado a sistemas com modelagem matemática bem definida. O
+desempenho do controlador MPC mostra-se superior em comparação ao controlador IQC
+em simulações nominais, apresentando estabilidade robusta a variações paramétricas e
+capacidade de implementação em tempo real, dadas as rápidas soluções de otimização
+alcançadas. Contribuições significativas incluem a formulação de uma equação aproximada
+para a pressão dinâmica em fluidos compressíveis, para diferentes valores do número de
+Mach e de altitude, e a proposição de um controlador MPC com dois modelos internos, um
+para predição e outro para atualização de estados. Limitações identificadas abrem caminho
+para pesquisas futuras, sugerindo a inclusão de técnicas de controle robusto no MPC, a
+aplicação de dados aerodinâmicos de mísseis, que sejam mais realistas, e a consideração
+da dinâmica completa de 6DOF. Este trabalho não apenas avança o conhecimento no
+campo do controle MPC Nominal, mas também estabelece uma base sólida para pesquisas
+futuras na área de sistemas de controle MPC Não-linear e Robusto.
+
+Palavras-chave: mpc. não-linear. míssil. 3dof. piloto automático. matlab. casadi.
+
+## Master Thesis Description
+
 TITLE:
 Controle Preditivo Não-Linear Aplicado ao Sistema de Piloto Automático de Mísseis
 
