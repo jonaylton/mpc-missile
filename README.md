@@ -9,6 +9,7 @@ Esta dissertação aborda o desenvolvimento e a aplicação do Controle Preditiv
 Palavras-chave: mpc. não-linear. míssil. 3dof. piloto automático. matlab. casadi.
 
 (1) SIMÕES, A. M.; CAVALCANTI, V. M. G. B. Missile autopilot design via structured robust linear parameter-varying synthesis. Journal of Guidance, Control, and Dynamics, v. 46, n. 8, p. 1649–1656, 2023. Disponível em: <https://doi.org/10.2514/1.G007580>.
+
 (2) CAVALCANTI, V. M. G. de B. Síntese de controladores estruturados sob restrições quadráticas integrais. 159 p. Tese (Doutorado em Engenharia de Defesa) — Instituto Militar de Engenharia, Rio de Janeiro, Brasil, 12 2021.
 
 ## Master Thesis Description (English)
@@ -22,6 +23,7 @@ This dissertation addresses the development and application of Model-Based Predi
 Keywords: mpc. nonlinear. missile. 3dof. autopilot. matlab. casadi.
 
 (1) SIMÕES, A. M.; CAVALCANTI, V. M. G. B. Missile autopilot design via structured robust linear parameter-varying synthesis. Journal of Guidance, Control, and Dynamics, v. 46, n. 8, p. 1649–1656, 2023. Disponível em: <https://doi.org/10.2514/1.G007580>.
+
 (2) CAVALCANTI, V. M. G. de B. Síntese de controladores estruturados sob restrições quadráticas integrais. 159 p. Tese (Doutorado em Engenharia de Defesa) — Instituto Militar de Engenharia, Rio de Janeiro, Brasil, 12 2021.
 
 ## Software Configuration
