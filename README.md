@@ -1,6 +1,6 @@
 ## Citation
 
-SOUSA, J. M. de. Controle preditivo não-linear aplicado ao sistema de piloto automático de mísseis. Dissertação (Dissertação de Mestrado) — Instituto Militar de Engenharia,
+SOUSA, J. M. de. Controle preditivo não linear aplicado ao sistema de piloto automático de mísseis. Dissertação (Dissertação de Mestrado) — Instituto Militar de Engenharia,
 Rio de Janeiro, Brasil, 2024. Departamento de Engenharia Elétrica.
 
 ## Descrição da Dissertação (Português)
@@ -11,7 +11,7 @@ Controle Preditivo Não-Linear Aplicado ao Sistema de Piloto Automático de Mís
 RESUMO:
 Esta dissertação aborda o desenvolvimento e a aplicação do Controle Preditivo Baseado em Modelo (MPC), em sistemas de piloto automático de mísseis. A modelagem matemática detalhada de mísseis axissimétricos controlados por aletas é apresentada, incluindo simplificações práticas que mantêm a precisão necessária para o controle efetivo em todo o envelope de voo. Com base nessa modelagem, um controlador MPC Não Linear é desenvolvido e testado através de simulações, comparando seu desempenho com um controlador previamente projetado, que utiliza a técnica de controle robusto com incertezas descritas por Restrições Quadráticas Integrais (IQC), evidenciando a viabilidade e a eficácia do MPC em aplicações complexas e não lineares como o controle de piloto automático de mísseis. Ressalta-se a simplicidade, a intuitividade e a precisão do MPC, especialmente quando aplicado a sistemas com modelagem matemática bem definida. O desempenho do controlador MPC mostra-se superior em comparação ao controlador IQC em simulações nominais, apresentando estabilidade robusta a variações paramétricas e capacidade de implementação em tempo real, dadas as rápidas soluções de otimização alcançadas. Contribuições significativas incluem a formulação de uma equação aproximada para a pressão dinâmica em fluidos compressíveis, para diferentes valores do número de Mach e de altitude, e a proposição de um controlador MPC com dois modelos internos, um para predição e outro para atualização de estados. Limitações identificadas abrem caminho para pesquisas futuras, sugerindo a inclusão de técnicas de controle robusto no MPC, a aplicação de dados aerodinâmicos de mísseis, que sejam mais realistas, e a consideração da dinâmica completa de 6 Graus de Liberdade (6-DOF). Este trabalho não apenas avança o conhecimento no campo do controle MPC Nominal, mas também estabelece uma base sólida para pesquisas futuras na área de sistemas de controle MPC Não Linear e Robusto.
 
-Palavras-chave: mpc. não-linear. míssil. 3dof. piloto automático. matlab. casadi.
+Palavras-chave: mpc. não linear. míssil. 3dof. piloto automático. matlab. casadi.
 
 ## Thesis Description (English)
 
