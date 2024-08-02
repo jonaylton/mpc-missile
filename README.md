@@ -1,3 +1,7 @@
+## Licença
+
+Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
 ## Citation
 
 SOUSA, J. M. de. Controle preditivo não linear aplicado ao sistema de piloto automático de mísseis. Dissertação (Dissertação de Mestrado) — Instituto Militar de Engenharia,
