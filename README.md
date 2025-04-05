@@ -35,7 +35,10 @@ Keywords: mpc. nonlinear. missile. 3dof. autopilot. matlab. casadi.
 | MinGW-w64 Compiler                         | 6.3        |
 | MATLAB                                     | R2023a     |
 | MATLAB Support for MinGW-w64 Compiler      | R2023a     |
+| MATLAB Optimization Toolbox                | R2023a     |
+| MATLAB Simulink                            | R2023a     |
 | CasADi                                     | 3.6.3      |
+| YALMIP                                     |            |
 | Mosek                                      | 10.0       |
 
 ## Hardware Configuration
